@@ -1,4 +1,4 @@
-# Angular5
+# Angular6
 
 This project was generated with [Angular CLI] version 7.3.9.
 
